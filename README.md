@@ -2,7 +2,7 @@
 
 See LICENSE.txt for rules on copying and redistributing.
 
-Download the .zip folder for all the required files.
+Download the .zip folder for all the required files. (Click "Code" and download as zip)
 
 This is a very bare-bones script to complete the Very Sharp Eye achievement in the game
 "Purple Place".
